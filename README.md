@@ -7,6 +7,8 @@ This project is a simple Flask application that manages customers and orders, fe
 - Order details (item, amount, time)
 - SMS notifications using Africa's Talking when an order is placed
 - pending is implementing authentication and authorization via OpenID Connect
+- There is also a folder containing some screenshots of how the application runs
+  
 ## Requirements
 - Python 3.x
 - Flask
